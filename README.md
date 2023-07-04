@@ -1,4 +1,7 @@
-[![MasterHead]<https://github.com/mdwaris786>]
+
+
+
+
 <h1 align="center">Hi there,👋 I'm Rutuja</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align = "right" alt="Coding" width="400" src="https://github.com/topics/gifs?o=desc&s=updated"
