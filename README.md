@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on **Java| DSA| Web Development**
 
-- 💬 Ask me about **DSA, CC**
+- 💬 Ask me about **DSA, CP**
 
-- 📫 How to reach me **rutujatapkir8A@gmail.com**
+- 📫 How to reach me **rutujatapkir8@gmail.com**
 
 - ⚡ Fun fact **I Love trekking and solving Problems**
 
