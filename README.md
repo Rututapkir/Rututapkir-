@@ -1,4 +1,4 @@
-## Hey there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rutuja!
+## Hey there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rutuja Tapkir!
 
 <h3 align="center">A passionate frontend developer</h3>
 <h3 align="left">Connect with me:</h3>
